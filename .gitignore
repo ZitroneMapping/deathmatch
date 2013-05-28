@@ -1,0 +1,13 @@
+*.bsp
+*.ent
+*.err
+*.lin
+*.log
+*.max
+*.p?
+*.pts
+*.res
+*.rmf
+*.rmx
+*.wic
+zt_dm/
