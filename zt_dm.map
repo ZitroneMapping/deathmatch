@@ -1,6 +1,6 @@
 {
 "mapversion" "220"
-"wad" "C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\halflife.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\tfc.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\tfc2.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\ravelin.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\xeno.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\zhlt.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\osaka_r.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\cstrike.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\rain.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\ricochet.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\zt08_colours.wad;C:\Games\steam\steamapps\blumenpower\team fortress classic\tfc\zt08_roemnum.wad"
+"wad" "\cstrike.wad;\halflife.wad;\osaka_r.wad;\rain.wad;\ravelin.wad;\ricochet.wad;\tfc.wad;\tfc2.wad;\xeno.wad;\zhlt.wad;\zt08_colours.wad;\zt08_roemnum.wad"
 "classname" "worldspawn"
 "classname" "worldspawn"
 "skyname" "fullmoon"
