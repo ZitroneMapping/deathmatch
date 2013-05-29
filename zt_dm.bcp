@@ -16,10 +16,10 @@
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
     <stage name="Backup" checked="True">
-      <option name="Sub-Directory Save" checked="False" value="" />
+      <option name="Sub-Directory Save" checked="True" value="" />
       <option name="Maximum Backup Files" checked="False" value="64" />
       <option name="Extension" checked="False" value="" />
-      <option name="Backup Path" checked="True" value="C:\Users\orangensaft\Mapping\zt_dm\archive" />
+      <option name="Backup Path" checked="False" value="" />
       <option name="Additional Parameters" checked="False" value="" />
     </stage>
     <stage name="CSG" checked="True">
@@ -30,7 +30,7 @@
       <option name="No WAD Textures" checked="True" value="" />
       <option name="Entities Only" checked="False" value="" />
       <option name="WAD Auto Detect" checked="True" value="" />
-      <option name="Additional Parameters" checked="False" value="-wadinclude C:\Users\orangensaft\Mapping\_wads" />
+      <option name="Additional Parameters" checked="False" value="" />
       <option name="Brush Union" checked="False" value="95.0" />
       <option name="Tiny" checked="False" value="0.5" />
       <option name="WAD Config" checked="False" value="wad.cfg" />
