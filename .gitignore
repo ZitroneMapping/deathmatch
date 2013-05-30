@@ -1,6 +1,7 @@
 *.7z
 *.bsp
 *.ent
+*.ent.bak
 *.err
 *.lin
 *.log
