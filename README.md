@@ -6,11 +6,14 @@ The common file format used is the .map format. The Valve Hammer Editor works be
 
 1. Open the .map file in Hammer
 2. Save it as .rmf
-3. Convert it to .map with [HLFix](http://extension.ws/hlfix/), NOT with Hammer
+3. Convert it to .map with [HLFix] (https://github.com/kriswema/hlfix), NOT with Hammer. (See below: Compiling / HLFix)
 
 This way the file stays nice and clean.
 
 ## Compiling ##
+### HLFix ###
+hlfix zt_dm.rmf -w
+
 ### ZHLT-CSG: Constructive Solid Geometry ###
 hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -estimate -dev 2 zt_dm
 
