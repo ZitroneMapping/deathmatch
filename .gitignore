@@ -12,4 +12,5 @@
 *.rmf
 *.rmx
 *.wic
-zt_dm/
+/wad/
+/zt_dm/
