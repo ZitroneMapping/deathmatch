@@ -15,18 +15,7 @@ install-deps: get-deps
 	make install
 
 get-wads:
-	wget -P $(WadDir) $(WadUrl)cstrike.wad
-	wget -P $(WadDir) $(WadUrl)halflife.wad
-	wget -P $(WadDir) $(WadUrl)osaka_r.wad
-	wget -P $(WadDir) $(WadUrl)rain.wad
-	wget -P $(WadDir) $(WadUrl)ravelin.wad
-	wget -P $(WadDir) $(WadUrl)ricochet.wad
-	wget -P $(WadDir) $(WadUrl)tfc.wad
-	wget -P $(WadDir) $(WadUrl)tfc2.wad
-	wget -P $(WadDir) $(WadUrl)xeno.wad
-	wget -P $(WadDir) $(WadUrl)zhlt.wad
-	wget -P $(WadDir) $(WadUrl)zt08_colours.wad
-	wget -P $(WadDir) $(WadUrl)zt08_roemnum.wad
+	wget -P $(WadDir) $(WadUrl)cstrike.wad $(WadUrl)halflife.wad $(WadUrl)osaka_r.wad $(WadUrl)rain.wad $(WadUrl)ravelin.wad $(WadUrl)ricochet.wad $(WadUrl)tfc.wad $(WadUrl)tfc2.wad $(WadUrl)xeno.wad $(WadUrl)zhlt.wad $(WadUrl)zt08_colours.wad $(WadUrl)zt08_roemnum.wad
 
 zhlt: get-wads
 	hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -dev 2 zt_dm
