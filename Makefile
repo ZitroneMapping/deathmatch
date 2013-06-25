@@ -28,7 +28,7 @@ get-wads:
 	wget -P $(WadDir) $(WadUrl)zt08_colours.wad
 	wget -P $(WadDir) $(WadUrl)zt08_roemnum.wad
 
-zhlt:
+zhlt: get-wads
 	hlcsg -nowadtextures -wadautodetect -cliptype Precise -chart -dev 2 zt_dm
 	hlbsp -chart -dev 2 zt_dm
 	hlvis -chart -dev 2 zt_dm
