@@ -1,7 +1,5 @@
-# Zitrone: Deathmatch #
+# Zitrone: Deathmatch [![Build Status](https://travis-ci.org/ZitroneMapping/deathmatch.svg?branch=master)](https://travis-ci.org/ZitroneMapping/deathmatch) #
 A map to fight battles between two sides. The idea to create a new deathmatch map probably came from mulch_dm and sq4 being all boring.
-
-Master: [![Build Status](https://travis-ci.org/ZitroneMapping/deathmatch.png?branch=master)](https://travis-ci.org/ZitroneMapping/deathmatch)
 
 ## Contribute ##
 The common file format used is the .map format. The Valve Hammer Editor works better with its native .rmf format though, which is why you should follow these guidelines.
