@@ -3,8 +3,6 @@ A map to fight battles between two sides. The idea to create a new deathmatch ma
 
 Master: [![Build Status](https://travis-ci.org/ZitroneMapping/deathmatch.png?branch=master)](https://travis-ci.org/ZitroneMapping/deathmatch)
 
-Develop: [![Build Status](https://travis-ci.org/ZitroneMapping/deathmatch.png?branch=develop)](https://travis-ci.org/ZitroneMapping/deathmatch)
-
 ## Contribute ##
 The common file format used is the .map format. The Valve Hammer Editor works better with its native .rmf format though, which is why you should follow these guidelines.
 
